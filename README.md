@@ -9,6 +9,8 @@ Unofficial repository containing resources related to course in (Deep) Reinforce
 
 [notebooks]() - notebooks for seminars/homeworks
 
+[misc]() - other materials
+
 # Links
 
 [Yandex Disk](https://disk.yandex.ru/d/E8Mm081nKZDyag) with recordings of lectures/seminars (**ACHTUNG**: very large files!)
