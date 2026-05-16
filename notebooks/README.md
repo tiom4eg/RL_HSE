@@ -30,3 +30,7 @@
 
 [Seminar 13. METRA](https://colab.research.google.com/drive/1qajYxqWJmOno_SfHbiFz5sx9C9rgJnLv)
 
+[Seminar 14. MCTS](https://colab.research.google.com/drive/1ldgZ4fh6u2zRq7jgty-afbq0hX6OAkfS)
+
+[Seminar 14. Dyna-Q, Imperfect models, Dreaming](https://colab.research.google.com/drive/1qOjODrvlpePUZwm8RcfjOjiGxLNIh1E5)
+
