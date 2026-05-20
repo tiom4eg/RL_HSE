@@ -34,3 +34,5 @@
 
 [Seminar 14. Dyna-Q, Imperfect models, Dreaming](https://colab.research.google.com/drive/1qOjODrvlpePUZwm8RcfjOjiGxLNIh1E5)
 
+[Seminar 15. Multi-agent RL](https://colab.research.google.com/drive/16FZMACcvD5nyZMCMzEfyGHXTpXOA3tEg)
+
